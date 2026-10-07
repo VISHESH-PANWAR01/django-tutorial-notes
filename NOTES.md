@@ -5,3 +5,5 @@
 - settings.py: done 
 # day 2 
 - nothing done 
+# day 3
+- nothing here
